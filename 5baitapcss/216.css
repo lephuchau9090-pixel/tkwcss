@@ -1,0 +1,39 @@
+.lang-box {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  line-height: 1.7;
+  padding: 16px;
+  max-width: 540px;
+}
+
+.lang-php {
+  background-color: #ffe082;
+  color: #5d4037;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.lang-js {
+  background-color: #fff59d;
+  color: #33691e;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.lang-csharp {
+  background-color: #ce93d8;
+  color: #311b92;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.lang-java {
+  background-color: #90caf9;
+  color: #0d47a1;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
+}
